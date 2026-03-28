@@ -46,7 +46,8 @@ pip install -r requirements.txt
 # Start the server
 python main.py
 
-
+### 2. Frontend Setup
+```bash
 # Navigate to frontend
 cd frontend
 
